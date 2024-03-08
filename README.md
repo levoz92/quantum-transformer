@@ -15,4 +15,4 @@ The *Quantum Transformer* Jupyter Notebook is a notebook designed to demonstrate
 
 *Classical Components Integration*: Contains classical implementations of Softmax and Weighted Sum functions.
 
-By: Onur-Andros Ozbek
+By: Levent Ozbek
